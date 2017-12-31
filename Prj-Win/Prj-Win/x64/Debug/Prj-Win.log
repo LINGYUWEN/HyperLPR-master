@@ -1,0 +1,38 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  test_pipeline.cpp
+e:\vs2015_workspace\hyperlpr-master\prj-win\lpr\tests\test_pipeline.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\vs2015_workspace\hyperlpr-master\prj-win\lpr\include\platedetection.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\vs2015_workspace\hyperlpr-master\prj-win\lpr\include\plateinfo.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\vs2015_workspace\hyperlpr-master\prj-win\lpr\include\platesegmentation.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\vs2015_workspace\hyperlpr-master\prj-win\lpr\include\cnnrecognizer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\vs2015_workspace\hyperlpr-master\prj-win\lpr\include\recognizer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\vs2015_workspace\hyperlpr-master\prj-win\lpr\include\fastdeskew.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\vs2015_workspace\hyperlpr-master\prj-win\lpr\include\finemapping.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Recognizer.cpp
+e:\vs2015_workspace\hyperlpr-master\prj-win\lpr\src\recognizer.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\vs2015_workspace\hyperlpr-master\prj-win\lpr\include\recognizer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\vs2015_workspace\hyperlpr-master\prj-win\lpr\include\plateinfo.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  PlateSegmentation.cpp
+e:\vs2015_workspace\hyperlpr-master\prj-win\lpr\src\platesegmentation.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\vs2015_workspace\hyperlpr-master\prj-win\lpr\include\platesegmentation.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\vs2015_workspace\hyperlpr-master\prj-win\lpr\include\plateinfo.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\vs2015_workspace\hyperlpr-master\prj-win\lpr\include\niblackthreshold.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  PlateDetection.cpp
+e:\vs2015_workspace\hyperlpr-master\prj-win\lpr\src\platedetection.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\vs2015_workspace\hyperlpr-master\prj-win\lpr\include\platedetection.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\vs2015_workspace\hyperlpr-master\prj-win\lpr\include\plateinfo.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\vs2015_workspace\hyperlpr-master\prj-win\lpr\src\util.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\vs2015_workspace\hyperlpr-master\prj-win\lpr\src\util.h(39): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+e:\vs2015_workspace\hyperlpr-master\prj-win\lpr\src\util.h(71): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  FineMapping.cpp
+e:\vs2015_workspace\hyperlpr-master\prj-win\lpr\src\finemapping.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\vs2015_workspace\hyperlpr-master\prj-win\lpr\src\finemapping.cpp(5): fatal error C1083: 无法打开包括文件: “FineMapping.h”: No such file or directory
+  FastDeskew.cpp
+e:\vs2015_workspace\hyperlpr-master\prj-win\lpr\src\fastdeskew.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\vs2015_workspace\hyperlpr-master\prj-win\lpr\src\fastdeskew.cpp(7): fatal error C1083: 无法打开包括文件: “FastDeskew.h”: No such file or directory
+  CNNRecognizer.cpp
+e:\vs2015_workspace\hyperlpr-master\prj-win\lpr\src\cnnrecognizer.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\vs2015_workspace\hyperlpr-master\prj-win\lpr\include\cnnrecognizer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\vs2015_workspace\hyperlpr-master\prj-win\lpr\include\recognizer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\vs2015_workspace\hyperlpr-master\prj-win\lpr\include\plateinfo.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
